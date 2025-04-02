@@ -12,10 +12,6 @@
 
 ### 📈 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekshahab&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=abhishekshahab&theme=radical)
-
-### 🐍 Contribution Graph
-![Snake animation](https://github.com/abhishekshahab/abhishekshahab/blob/output/github-contribution-grid-snake.svg)
 
 ### 🎵 Now Playing on Spotify
 ![Spotify](https://novatorem.vercel.app/api/spotify)
